@@ -1,0 +1,10 @@
+C:\Users\hp pc\Desktop\csharpproject\AssemblyTest\AssemblyTest\bin\Debug\AssemblyTest.exe.config
+C:\Users\hp pc\Desktop\csharpproject\AssemblyTest\AssemblyTest\bin\Debug\AssemblyTest.exe
+C:\Users\hp pc\Desktop\csharpproject\AssemblyTest\AssemblyTest\bin\Debug\AssemblyTest.pdb
+C:\Users\hp pc\Desktop\csharpproject\AssemblyTest\AssemblyTest\bin\Debug\TimeLibrary.dll
+C:\Users\hp pc\Desktop\csharpproject\AssemblyTest\AssemblyTest\bin\Debug\TimeLibrary.pdb
+C:\Users\hp pc\Desktop\csharpproject\AssemblyTest\AssemblyTest\obj\Debug\AssemblyTest.exe
+C:\Users\hp pc\Desktop\csharpproject\AssemblyTest\AssemblyTest\obj\Debug\AssemblyTest.pdb
+C:\Users\hp pc\Documents\Visual Studio 2012\Projects\AssemblyTest\AssemblyTest\bin\Debug\AssemblyTest.exe.config
+C:\Users\hp pc\Documents\Visual Studio 2012\Projects\AssemblyTest\AssemblyTest\obj\Debug\AssemblyTest.exe
+C:\Users\hp pc\Documents\Visual Studio 2012\Projects\AssemblyTest\AssemblyTest\obj\Debug\AssemblyTest.pdb

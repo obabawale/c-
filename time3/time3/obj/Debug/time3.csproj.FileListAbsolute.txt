@@ -1,0 +1,2 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\time3\time3\bin\Debug\time3.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\time3\time3\obj\Debug\time3.csprojResolveAssemblyReference.cache

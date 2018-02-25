@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\Factorial\Factorial\bin\Debug\Factorial.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+c:\users\hp pc\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb

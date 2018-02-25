@@ -1,0 +1,5 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\Another Programme\Another Programme\bin\Debug\Another Programme.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\Another Programme\Another Programme\bin\Debug\Another Programme.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\Another Programme\Another Programme\bin\Debug\Another Programme.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\Another Programme\Another Programme\obj\Debug\Another Programme.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\Another Programme\Another Programme\obj\Debug\Another Programme.pdb

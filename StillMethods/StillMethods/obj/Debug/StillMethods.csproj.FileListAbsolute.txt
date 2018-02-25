@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\StillMethods\StillMethods\bin\Debug\StillMethods.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\StillMethods\StillMethods\obj\Debug\StillMethods.csprojResolveAssemblyReference.cache
+c:\users\hp pc\documents\visual studio 2012\Projects\StillMethods\StillMethods\bin\Debug\StillMethods.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\StillMethods\StillMethods\bin\Debug\StillMethods.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\StillMethods\StillMethods\obj\Debug\StillMethods.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\StillMethods\StillMethods\obj\Debug\StillMethods.pdb

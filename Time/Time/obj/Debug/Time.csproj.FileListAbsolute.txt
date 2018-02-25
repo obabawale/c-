@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\Time\Time\bin\Debug\Time.exe.config
+C:\Users\hp pc\documents\visual studio 2012\Projects\Time\Time\bin\Debug\Time.exe
+C:\Users\hp pc\documents\visual studio 2012\Projects\Time\Time\bin\Debug\Time.pdb
+C:\Users\hp pc\documents\visual studio 2012\Projects\Time\Time\obj\Debug\Time.exe
+C:\Users\hp pc\documents\visual studio 2012\Projects\Time\Time\obj\Debug\Time.pdb
+C:\Users\hp pc\documents\visual studio 2012\Projects\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache

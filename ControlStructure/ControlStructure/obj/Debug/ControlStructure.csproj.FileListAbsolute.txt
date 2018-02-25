@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\ControlStructure\ControlStructure\bin\Debug\ControlStructure.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\ControlStructure\ControlStructure\bin\Debug\ControlStructure.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\ControlStructure\ControlStructure\bin\Debug\ControlStructure.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\ControlStructure\ControlStructure\obj\Debug\ControlStructure.csprojResolveAssemblyReference.cache
+c:\users\hp pc\documents\visual studio 2012\Projects\ControlStructure\ControlStructure\obj\Debug\ControlStructure.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\ControlStructure\ControlStructure\obj\Debug\ControlStructure.pdb

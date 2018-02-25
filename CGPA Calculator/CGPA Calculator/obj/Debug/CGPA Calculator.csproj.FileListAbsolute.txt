@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.csprojResolveAssemblyReference.cache
+c:\users\hp pc\documents\visual studio 2012\Projects\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.pdb

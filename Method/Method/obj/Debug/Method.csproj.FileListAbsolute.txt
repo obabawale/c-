@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\Method\Method\bin\Debug\Method.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\Method\Method\bin\Debug\Method.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\Method\Method\bin\Debug\Method.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\Method\Method\obj\Debug\Method.csprojResolveAssemblyReference.cache
+c:\users\hp pc\documents\visual studio 2012\Projects\Method\Method\obj\Debug\Method.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\Method\Method\obj\Debug\Method.pdb

@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.csprojResolveAssemblyReference.cache
+c:\users\hp pc\documents\visual studio 2012\Projects\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.pdb

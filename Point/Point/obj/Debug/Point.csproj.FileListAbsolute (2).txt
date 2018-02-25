@@ -1,0 +1,6 @@
+C:\Users\hp pc\Desktop\csharpproject\Point\Point\bin\Debug\Point.exe.config
+C:\Users\hp pc\Desktop\csharpproject\Point\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+C:\Users\hp pc\Desktop\csharpproject\Point\Point\bin\Debug\Point.exe
+C:\Users\hp pc\Desktop\csharpproject\Point\Point\bin\Debug\Point.pdb
+C:\Users\hp pc\Desktop\csharpproject\Point\Point\obj\Debug\Point.exe
+C:\Users\hp pc\Desktop\csharpproject\Point\Point\obj\Debug\Point.pdb

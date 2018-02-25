@@ -1,0 +1,5 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.pdb

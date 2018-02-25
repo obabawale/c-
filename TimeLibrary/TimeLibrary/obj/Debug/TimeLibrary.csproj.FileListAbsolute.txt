@@ -1,0 +1,8 @@
+C:\Users\hp pc\Desktop\csharpproject\TimeLibrary\TimeLibrary\bin\Debug\TimeLibrary.dll
+C:\Users\hp pc\Desktop\csharpproject\TimeLibrary\TimeLibrary\bin\Debug\TimeLibrary.pdb
+C:\Users\hp pc\Desktop\csharpproject\TimeLibrary\TimeLibrary\obj\Debug\TimeLibrary.dll
+C:\Users\hp pc\Desktop\csharpproject\TimeLibrary\TimeLibrary\obj\Debug\TimeLibrary.pdb
+C:\Users\hp pc\Documents\Visual Studio 2012\Projects\TimeLibrary\TimeLibrary\bin\Debug\TimeLibrary.dll
+C:\Users\hp pc\Documents\Visual Studio 2012\Projects\TimeLibrary\TimeLibrary\bin\Debug\TimeLibrary.pdb
+C:\Users\hp pc\Documents\Visual Studio 2012\Projects\TimeLibrary\TimeLibrary\obj\Debug\TimeLibrary.dll
+C:\Users\hp pc\Documents\Visual Studio 2012\Projects\TimeLibrary\TimeLibrary\obj\Debug\TimeLibrary.pdb

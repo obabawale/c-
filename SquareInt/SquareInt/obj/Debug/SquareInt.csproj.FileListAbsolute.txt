@@ -1,0 +1,6 @@
+c:\users\hp pc\documents\visual studio 2012\Projects\SquareInt\SquareInt\bin\Debug\SquareInt.exe.config
+c:\users\hp pc\documents\visual studio 2012\Projects\SquareInt\SquareInt\bin\Debug\SquareInt.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\SquareInt\SquareInt\bin\Debug\SquareInt.pdb
+c:\users\hp pc\documents\visual studio 2012\Projects\SquareInt\SquareInt\obj\Debug\SquareInt.csprojResolveAssemblyReference.cache
+c:\users\hp pc\documents\visual studio 2012\Projects\SquareInt\SquareInt\obj\Debug\SquareInt.exe
+c:\users\hp pc\documents\visual studio 2012\Projects\SquareInt\SquareInt\obj\Debug\SquareInt.pdb
